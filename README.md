@@ -1,0 +1,2 @@
+# ChatGLM2-6B-mix_prefixEncoder
+混合ChatGLM2-6B的prefix_encoder权重以实现ptuning效果与原模型效果保留
